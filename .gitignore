@@ -4,6 +4,7 @@
 *.suo
 *.ntvs*
 *.njsproj
+*swp
 
 # Operating System Files
 .DS_Store
@@ -12,3 +13,4 @@ desktop.ini
 
 # Log files
 *.log
+.cache/
